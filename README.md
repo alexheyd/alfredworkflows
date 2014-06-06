@@ -9,7 +9,7 @@ Descriptions, screenshots and links coming soon.
 
 ## YouTube to VLC Workflow
 
-Direct download: https://github.com/alexheyd/alfredworkflows/blob/master/workflows/YouTube%20to%20VLC.alfredworkflow?raw=true
+Direct download: http://bit.ly/1pg4w9A
 
 This searches YouTube, displays the results inline, and upon selection, plays the video in VLC.
 
